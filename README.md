@@ -1,6 +1,6 @@
 ### Apperantice BlockChain Developer
 
-<h1>About..</h1>
+<h1>About me</h1>
 
 <br>
 
