@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://liferesetbutton.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=black"/></a>
+<a href="https://liferesetbutton.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=black"/></a>
 
 
 
