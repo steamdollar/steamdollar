@@ -1,5 +1,10 @@
 
-<h1>Hello, this is Apprentice Blockchain Developer, Lee SeungJun</h1>
+<h1>Hello, this is Lee SeungJun, 
+<br>
+<br>
+Apprentice BlockChain Developer</h1>
+
+<br>
 
 <h2>About me</h2>
 
