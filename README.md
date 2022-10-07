@@ -10,7 +10,7 @@ Apprentice BlockChain Developer</h1>
 
 <br>
 
-<div>
+<div align=center>
 <span><a href="https://liferesetbutton.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=black"/></a></span>
 
 <span><a href="https://steamdollar.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=black"/></a></span>
