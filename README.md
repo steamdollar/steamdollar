@@ -11,14 +11,15 @@ Apprentice BlockChain Developer</h1>
 <br>
 
 <div align=center>
-<span><a href="https://liferesetbutton.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=black"/></a></span>
+<a href="https://liferesetbutton.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=black"/></a>
 
-<span><a href="https://steamdollar.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=black"/></a></span>
+<a href="https://steamdollar.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=black"/></a>
+  
 </div>
 
 <br>
 
-<h2> 🔧 Tech Stack 🔧</h2>
+<h2>Tech Stack</h2>
 <br>
 
 
@@ -43,8 +44,8 @@ Apprentice BlockChain Developer</h1>
 <br>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 </div>
 
 
