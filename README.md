@@ -1,28 +1,27 @@
 # Lee Seung Jun
 
-Backend engineer building practical tools for learning, automation, and data workflows.
+Backend engineer based in Seoul, focused on building practical tools, APIs, and automation systems.
 
-I mainly work with **Go** and **TypeScript** across API servers, relational databases, Docker-based local environments, and cloud deployments. I am rebuilding this GitHub profile around projects I actually use, not only archived study repositories.
+I mainly work with **Go** and **TypeScript** across backend services, relational databases, Docker-based environments, and cloud deployments. This profile highlights projects I actively build or use, rather than archived study repositories.
 
-Currently focused on:
+## Focus areas
 
-- backend systems with Go, TypeScript, PostgreSQL, MySQL, and Redis
-- language learning automation
-- developer productivity tools
-- AI-assisted workflows
-- trading and blockchain data tooling as side interests
+- Backend APIs and internal tools
+- Go / TypeScript application development
+- PostgreSQL, MySQL, Redis, and SQL-first data modeling
+- Docker-based local and deployment environments
+- Language learning automation and developer productivity tools
+- AI-assisted workflows and data automation
 
 ## Featured projects
 
-### CopyLingo
+### [CopyLingo](https://github.com/steamdollar/copylingo)
 
 A Japanese learning Telegram bot/app that I actively build and use for my own study workflow.
 
-- Automates the flow from content collection to AI-generated exercises, Telegram delivery, grading, and review
+- Automates the flow from content collection to exercise generation, Telegram delivery, grading, and review
 - Uses Go, Gin, PostgreSQL, Redis, Docker Compose, Gemini, and Google Cloud TTS
-- Built as both a real personal learning tool and a backend portfolio project
-
-> Currently private while in active development.
+- Designed as a real personal learning tool and a backend portfolio project
 
 ### [base64parser](https://github.com/steamdollar/base64parser)
 
@@ -31,23 +30,23 @@ A Chrome extension and developer utility that I use for quick inspection and deb
 - Base64 encode/decode and JWT payload inspection
 - Lightweight HTTP API testing
 - Mermaid diagram preview
-- Translation, notes, and crypto futures calculation utilities
+- Translation, notes, and calculation utilities for day-to-day work
 
-### [nosoundcamera](https://github.com/steamdollar/nosoundcamera)
+### Android camera app
 
-An Android camera app project built to explore Kotlin/Android development through a practical app.
+An Android app project built to explore Kotlin/Android development through a practical mobile app.
 
 - Small mobile app experiment
 - Kept public as a working learning artifact
 - Focused on shipping a usable tool rather than polishing a demo repository
 
-## Tech focus
+## Tech stack
 
 **Backend:** Go, TypeScript, Node.js, Gin, NestJS  
 **Databases:** PostgreSQL, MySQL, Redis  
 **Infrastructure:** Docker, Docker Compose, GitHub Actions, AWS, Azure  
 **Frontend:** React, Next.js  
-**Exploring:** Kotlin, AI agents, trading automation, blockchain data APIs
+**Currently exploring:** Kotlin, AI agents, trading automation, data tooling
 
 ## Links
 
