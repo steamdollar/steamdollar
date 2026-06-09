@@ -1,13 +1,21 @@
 # Lee Seung Jun
 
-Backend engineer based in Seoul, focused on building practical tools, APIs, and automation systems.
+Backend engineer based in Seoul, focused on building practical backend systems, APIs, and automation tools.
 
-I mainly work with **Go** and **TypeScript** across backend services, relational databases, Docker-based environments, and cloud deployments. This profile highlights projects I actively build or use, rather than archived study repositories.
+I mainly work with **Go** and **TypeScript** across backend services, relational databases, Docker-based environments, and cloud deployments. My professional background is strongest in legacy system modernization, backend/API design, external service integrations, and operating production systems with small teams.
 
-## Focus areas
+## Professional strengths
 
-- Backend APIs and internal tools
-- Go / TypeScript application development
+- Modernizing legacy ERP and operational systems into maintainable backend services
+- Designing backend APIs and data models around real business workflows
+- Integrating external services such as payment providers, booking channels, and third-party APIs
+- Improving reliability and performance across backend services and database-heavy flows
+- Working across product, operations, and engineering constraints rather than only isolated feature tickets
+- Leading backend workstreams, reviewing implementation direction, and supporting junior developers
+
+## Current focus
+
+- Go / TypeScript backend development
 - PostgreSQL, MySQL, Redis, and SQL-first data modeling
 - Docker-based local and deployment environments
 - Language learning automation and developer productivity tools
@@ -32,18 +40,10 @@ A Chrome extension and developer utility that I use for quick inspection and deb
 - Mermaid diagram preview
 - Translation, notes, and calculation utilities for day-to-day work
 
-### Android camera app
-
-An Android app project built to explore Kotlin/Android development through a practical mobile app.
-
-- Small mobile app experiment
-- Kept public as a working learning artifact
-- Focused on shipping a usable tool rather than polishing a demo repository
-
 ## Tech stack
 
 **Backend:** Go, TypeScript, Node.js, Gin, NestJS  
-**Databases:** PostgreSQL, MySQL, Redis  
+**Databases:** PostgreSQL, MySQL, Redis, MSSQL Server  
 **Infrastructure:** Docker, Docker Compose, GitHub Actions, AWS, Azure  
 **Frontend:** React, Next.js  
 **Currently exploring:** Kotlin, AI agents, trading automation, data tooling
