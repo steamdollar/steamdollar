@@ -1,67 +1,55 @@
+# Lee Seung Jun
 
-<h1>Hello, this is Lee SeungJun, 
-<br>
-<br>
-Apprentice BlockChain Developer</h1>
+Backend engineer building practical tools for learning, automation, and data workflows.
 
-<br>
+I mainly work with **Go** and **TypeScript** across API servers, relational databases, Docker-based local environments, and cloud deployments. I am rebuilding this GitHub profile around projects I actually use, not only archived study repositories.
 
-<h2>About me</h2>
+Currently focused on:
 
-<br>
+- backend systems with Go, TypeScript, PostgreSQL, MySQL, and Redis
+- language learning automation
+- developer productivity tools
+- AI-assisted workflows
+- trading and blockchain data tooling as side interests
 
-<div align=center>
-<a href="https://liferesetbutton.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=black"/></a>
+## Featured projects
 
-<a href="https://steamdollar.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=black"/></a>
-  
-</div>
+### CopyLingo
 
-<br>
+A Japanese learning Telegram bot/app that I actively build and use for my own study workflow.
 
-<h2>Tech Stack</h2>
-<br>
+- Automates the flow from content collection to AI-generated exercises, Telegram delivery, grading, and review
+- Uses Go, Gin, PostgreSQL, Redis, Docker Compose, Gemini, and Google Cloud TTS
+- Built as both a real personal learning tool and a backend portfolio project
 
+> Currently private while in active development.
 
-<div>
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=black">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=redux%20saga&logoColor=white">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
-</div>
+### [base64parser](https://github.com/steamdollar/base64parser)
 
-<br>
+A Chrome extension and developer utility that I use for quick inspection and debugging tasks.
 
-<h2> Cowork tools </h2>
-<br>
+- Base64 encode/decode and JWT payload inspection
+- Lightweight HTTP API testing
+- Mermaid diagram preview
+- Translation, notes, and crypto futures calculation utilities
 
-<div align=center>
-  <a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-</div>
+### [nosoundcamera](https://github.com/steamdollar/nosoundcamera)
 
+An Android camera app project built to explore Kotlin/Android development through a practical app.
 
+- Small mobile app experiment
+- Kept public as a working learning artifact
+- Focused on shipping a usable tool rather than polishing a demo repository
 
+## Tech focus
 
-<!--
-**steamdollar/steamdollar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend:** Go, TypeScript, Node.js, Gin, NestJS  
+**Databases:** PostgreSQL, MySQL, Redis  
+**Infrastructure:** Docker, Docker Compose, GitHub Actions, AWS, Azure  
+**Frontend:** React, Next.js  
+**Exploring:** Kotlin, AI agents, trading automation, blockchain data APIs
 
-Here are some ideas to get you started:
+## Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Blog: https://liferesetbutton.tistory.com
+- Portfolio: https://steamdollar.github.io
