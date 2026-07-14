@@ -44,11 +44,8 @@ A Chrome extension and developer utility that I use for quick inspection and deb
 
 **Backend:** Go, TypeScript, Node.js, Gin, NestJS  
 **Databases:** PostgreSQL, MySQL, Redis, MSSQL Server  
-**Infrastructure:** Docker, Docker Compose, GitHub Actions, AWS, Azure  
-**Frontend:** React, Next.js  
-**Currently exploring:** Kotlin, AI agents, trading automation, data tooling
+**Infrastructure:** Docker, GitHub Actions, Azure  
+**Currently exploring:** Kotlin, AI agents, Next.js
 
 ## Links
-
-- Blog: https://liferesetbutton.tistory.com
 - Portfolio: https://steamdollar.github.io
