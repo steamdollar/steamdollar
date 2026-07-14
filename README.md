@@ -46,6 +46,3 @@ A Chrome extension and developer utility that I use for quick inspection and deb
 **Databases:** PostgreSQL, MySQL, Redis, MSSQL Server  
 **Infrastructure:** Docker, GitHub Actions, Azure  
 **Currently exploring:** Kotlin, AI agents, Next.js
-
-## Links
-- Portfolio: https://steamdollar.github.io
