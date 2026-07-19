@@ -32,7 +32,7 @@ A Japanese learning Telegram bot/app that I actively build and use for my own st
 - Uses Go, Gin, PostgreSQL, Redis, Docker Compose, and the Gemini API
 - Designed as a real personal learning tool and a backend portfolio project
 
-### [base64parser](https://github.com/steamdollar/base64parser)
+### [browserToolkit](https://github.com/steamdollar/browserToolkit)
 
 A Chrome extension and developer utility that I use for quick inspection and debugging tasks.
 
