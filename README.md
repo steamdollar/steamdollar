@@ -1,22 +1,23 @@
 # Lee Seung Jun
 
-Backend engineer based in Seoul with 3 years of experience building ERP and operational systems for maritime passenger and cargo workflows.
+Backend engineer based in Seoul, working mainly with **Go** and **TypeScript**. Most recently drove the backend of a maritime ERP modernization — passenger, cargo, and onboard operations — after starting out as a backend engineer at a blockchain research lab.
 
-I mainly work with **Go** and **TypeScript** across backend services, relational databases, Docker-based environments, and cloud deployments. My professional background is strongest in legacy system modernization, backend API and data modeling, partner service integrations, performance optimization, and leading backend workstreams in small teams.
+My professional background is strongest in legacy system modernization, backend API and data modeling, partner service integrations, performance optimization, and leading backend workstreams in small teams.
 
 ## Professional strengths
 
-- Rebuilding legacy reservation and ERP systems into maintainable Go backend services
-- Designing backend APIs and data models around real business workflows in passenger, cargo, and onboard operations
+- Drove the backend of an ERP modernization for a maritime passenger and cargo operator, rebuilding a legacy PHP/JS passenger reservation system as a maintainable Go service
+- Single-handedly consolidated two backend services into the base server, with the accompanying DB migration — reducing the ERP from seven services to five
+- Built the backend of a QR-based onboard operations platform first deployed on a newly launched vessel, including cloud-to-ship WebSocket synchronization
 - Integrating payment providers, booking channels, vendor systems, and partner APIs
 - Improving reliability and performance across database-heavy flows, cache-backed reads, file processing, and PDF generation
-- Building and operating Azure, Docker, and GitHub Actions based deployment environments
-- Leading backend workstreams through code review, shared package design, implementation direction, and junior onboarding
+- Provisioned and configured the company's first cloud and container environment on Azure from scratch (App Service, ACR, VNet/NAT, Key Vault), and drove deployment automation from a manual CLI process to shell-script pipelines that later became the base of the team's GitHub Actions CD
+- Led a four-person backend team through code review as the merge gate, shared package design, implementation direction, and mentoring
 
 ## Current focus
 
 - Go / TypeScript backend development
-- PostgreSQL, MySQL, Redis, MSSQL Server, and SQL-first data modeling
+- PostgreSQL, Microsoft SQL Server, MariaDB, Redis, and SQL-first data modeling
 - Docker-based local and deployment environments
 - Language learning automation and developer productivity tools
 - AI-assisted workflows and data automation
@@ -28,7 +29,7 @@ I mainly work with **Go** and **TypeScript** across backend services, relational
 A Japanese learning Telegram bot/app that I actively build and use for my own study workflow.
 
 - Manages study materials, generated exercises, Telegram delivery, grading, and review flows
-- Uses Go, Gin, PostgreSQL, Redis, Docker Compose, Gemini, and Google Cloud TTS
+- Uses Go, Gin, PostgreSQL, Redis, Docker Compose, and the Gemini API
 - Designed as a real personal learning tool and a backend portfolio project
 
 ### [base64parser](https://github.com/steamdollar/base64parser)
@@ -42,7 +43,7 @@ A Chrome extension and developer utility that I use for quick inspection and deb
 
 ## Tech stack
 
-**Backend:** Go, TypeScript, Node.js, Gin, NestJS  
-**Databases:** PostgreSQL, MySQL, Redis, MSSQL Server  
-**Infrastructure:** Docker, GitHub Actions, Azure  
+**Backend:** Go, TypeScript, Node.js, Gin
+**Databases:** PostgreSQL, Microsoft SQL Server, MariaDB, Redis
+**Infrastructure:** Docker, Azure, GitHub Actions
 **Currently exploring:** Kotlin, AI agents, Next.js
