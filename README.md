@@ -2,6 +2,8 @@
 
 Backend engineer in Seoul. I work mostly in Go and TypeScript.
 
+[Portfolio](https://steamdollar.github.io/) · [한국어 프로필](https://steamdollar.github.io/ko/) · [KR / EU / US Résumés](https://steamdollar.github.io/resume/)
+
 For the last two years I built the backend of a maritime ERP: passenger
 reservations, cargo, and onboard operations for a Korea–Japan ferry operator.
 Before that I wrote Node.js/TypeScript services at a blockchain research lab.
